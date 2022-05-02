@@ -11,6 +11,8 @@ description: "frequently referenced namespaces"
 codelist:
   - {code: "info:ark/", codeName: ARK, description: "Archival Resource Key"}
   - {code: "info:doi/", codeName: DOI, description: "Digital Object Identifier"}
+  - {code: "info:ror/", codeName: ROR, description: "Research Organization Registry Identifier"}
+  - {code: "info:orcid/", codeName: ORCID, description: "Open Researcher and Contributor ID URL"}
   - {code: "urn:ogc:def:crs:EPSG", codeName: epsgCRS, description: "Coordinate reference system from European Petroleum Survey Group database"}
   - {code: "urn:isan", codeName: ISAN, description: "International Standard Audiovisual Number"}
   - {code: "urn:isbn", codeName: ISBN, description: "International Standard Book Number"}
